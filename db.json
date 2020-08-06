@@ -1,0 +1,104 @@
+{
+	"addUrlTag": {
+		"a": "1",
+		"b": "2"
+	},
+	"getList": {
+		"page": 1,
+		"size": 1,
+		"totalElements": 1,
+		"totalPages": 1,
+		"last": true,
+		"content": [
+			{
+				"gender": "M",
+				"dob": "2019-08-21 00:00:00.0",
+				"designation": null,
+				"tin": null,
+				"nationality": null,
+				"qualification": null,
+				"bank": null,
+				"branch": null,
+				"accno": null,
+				"accType": null,
+				"status": "Active",
+				"address": [
+					{
+						"address1": "JP",
+						"address2": "Nagar",
+						"city": "3r phase",
+						"region": "bannerghatta ro",
+						"province": "Karnataka",
+						"houseno": null,
+						"sub_zone": null
+					}
+				],
+				"user_id": "1",
+				"channel_type_id": 1,
+				"entity_type": 0,
+				"profile_id": 1,
+				"language_id": 1,
+				"first_name": "Super",
+				"last_name": "Admin",
+				"company_name": null,
+				"business_type": null,
+				"business_licence_no": null,
+				"father_name": null,
+				"alternate_msisdn": null,
+				"status_id": 1,
+				"contract_start_date": null,
+				"contract_end_date": null,
+				"registered_date": "2019-08-21 00:00:00.0",
+				"activated_date": "2019-08-21 00:00:00.0",
+				"created_by": null,
+				"soft_delete": false,
+				"login_details": {
+					"username": "admin",
+					"msisdn": "9987985",
+					"password": "password",
+					"pin": "0000",
+					"forcepswd": true,
+					"forcepin": true,
+					"user_id": "1",
+					"email_id": "basiljoseptcd@gmail.com",
+					"pswd_attempts": 0,
+					"pin_attempts": 0,
+					"pswd_expiry_date": "2019-08-21 00:00:00.0",
+					"pin_expiry_date": "2019-08-21 00:00:00.0",
+					"last_login": "2019-08-21 00:00:00.0",
+					"updated_date": "2019-08-21 21:15:19.0"
+				},
+				"parent_user": null,
+				"child_user": null,
+				"security_ans": [
+					{
+						"answer": "11",
+						"question_id": 1
+					}
+				],
+				"contact_person": {
+					"contact_name": "Admin",
+					"office_number": "12321",
+					"home_number": "33232",
+					"contact_email": "basil.jose@6dtech.co.in"
+				}
+			}
+		]
+	}
+	,
+	"createProfiles": {
+		"resultCode": "0",
+		"responseMsg": "Success",
+		"transactionId": null
+	},
+	"updateProfiles": {
+		"resultCode": "0",
+		"responseMsg": "Success",
+		"transactionId": null
+	},
+	"deleteProfiles": {
+		"resultCode": "0",
+		"responseMsg": "Success",
+		"transactionId": null
+	}
+}

@@ -1,0 +1,19 @@
+var MONEY_ICON = '$';
+var BASE_URL="http://10.0.0.36:9986/sd-application/";
+//var BASE_URL="http://10.0.14.40:9986/sd-application/";
+//var BASE_URL="http://10.0.6.124:5001"  //Ganeesh
+var DISTRIBUTOR_ID=87;
+var AREA_MANAGER_ID=10281084873842;
+var DS_ID=10281084889777;
+//var AREA_MANAGER_ID=10280424119512;
+var PENDING_STATUS_ID=6;
+var statusId=3;
+var DEALER_ID=103;
+var CAS_TEMPLATE="DLR new";
+var PAYOUT_METHOD="ereload";
+var SEGMENT="Aqua";
+var AREA_DROP_DOWN=41;
+var GOOGLE_API_KEY="U2FsdGVkX1+gnCtBkcTzkoptHHuRsGKSaXB7YOWhH39ZNJxCzU5tRVcEm6uJtkXDXrK8A/RGoCsmkyg7SlbItg==";
+DASHBOARD_SHOW_IDS=[10280424119512,10280424534310]
+//var BASE_URL="http://10.0.4.156:5001/";//balu
+//var BASE_URL="http://10.0.7.96:5001/";//Hithesh
