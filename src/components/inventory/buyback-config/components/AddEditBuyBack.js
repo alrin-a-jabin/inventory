@@ -401,7 +401,7 @@ export default class AddEditBuyBack extends Component {
                     type="text"
                     required
                     name="datefilter"
-                    value={`${this.state.startDate ? this.state.startDate + '-' + this.state.endDate : 'startDate'}`}
+                    value={`${this.state.startDate ? this.state.startDate + ' - ' + this.state.endDate : 'startDate'}`}
                     onChange={this.handleChange}
                   ></input>
                 </DateRangePicker>

@@ -80,7 +80,7 @@ export default class View extends Component {
     alert(id)
     // api-     /allocationReturnLog/retryProcess/{id}
     this.props.ajaxUtil.sendRequest(
-      this.props.url_Inventory.ALLOCATION_RETURN_LOG_RETRY_URL +`${id}`,
+      this.props.url_Inventory.ALLOCATION_RETURN_LOG_RETRY_URL +`/${id}`,
       {},
       (response) => {
         if (!response.status) {
